@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
      The git init creates a .git folder to repository and which makes the
 folder into repository.To track the files we need .
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+     The staging area contains the files to be committed and it offers the 
+value of committing.
