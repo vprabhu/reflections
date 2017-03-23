@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+     The git init creates a .git folder to repository and which makes the
+folder into repository.To track the files we need .
