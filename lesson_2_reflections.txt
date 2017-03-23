@@ -29,4 +29,10 @@ in the diagram the way we do?
 
          Lots of new commits merged and the diagram makies it easier.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+       The automatic merge can be used to merge small files and the manual one
+can be used to merge the larger files.
+
 
