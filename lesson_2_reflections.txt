@@ -23,3 +23,10 @@ working code.
 How do the diagrams help you visualize the branch structure?
   
       The diagrams are really helpful to understand the branch easily.
+
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+
+         Lots of new commits merged and the diagram makies it easier.
+
+
